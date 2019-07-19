@@ -1,12 +1,11 @@
 # Árvore AVL
 
---------  -----------------------
-Keyword   Significado
---------  -----------------------
-fb       Fator de balanceamento
 
-H        Altura          
---------  -----------------------
+| Keyword | Significado           |
+--------- | ----------------------
+|fb       | Fator de balanceamento|
+|H        | Altura                |
+
 
 Para execução
 
